@@ -45,6 +45,3 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
   console.log("Port is: ", port);
 });
-
-// DVmBvKSqBV99Rhbm
-// salehAhmed
